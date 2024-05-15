@@ -6,3 +6,5 @@ Detecting change through multi-image, multi-date remote sensing is essential to 
 
 # Objective 
 The aim of this project is to build a robust classifier able to classify a given geographical feature into one of six classes
+
+For a better understanding of the project's pipeline, the report has been submitted.
